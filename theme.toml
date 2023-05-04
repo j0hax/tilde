@@ -1,0 +1,21 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "tilde"
+license = "GPL"
+licenselink = "https://github.com/j0hax/tilde/blob/main/LICENSE"
+description = "Hugo theme in the style of tile.club"
+homepage = "https://tilde.club/~j0hax"
+tags = [ "blog" ]
+features = []
+min_version = "0.41.0"
+
+[author]
+  name = "Johannes Arnold"
+  homepage = "https://tilde.club/~j0hax"
+
+# If porting an existing theme
+[original]
+  name = "tilde.club"
+  homepage = "https://tilde.club"
+  repo = "https://github.com/tildeclub/site"
